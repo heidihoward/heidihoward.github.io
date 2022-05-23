@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Heidi Howard
 
-You can use the [editor on GitHub](https://github.com/heidihoward/heidihoward.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heidihoward/heidihoward.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I am a Senior Researcher in the <a href="https://www.microsoft.com/en-us/research/theme/confidential-computing/">Confidential Computing group</a> at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/">Microsoft Research Cambridge</a>. My research sits at the intersection between the theory and practice of distributed computing, with a focus on developing resilient and trustworthy distributed computer systems. Previously, I was a Research Fellow in Computer Science at Cambridge University’s <a href="https://www.trinhall.cam.ac.uk">Trinity Hall</a>, an Affiliated/Visiting Researcher at <a href="https://research.vmware.com">VMware Research</a>, and an Affiliated Lecturer at Cambridge University’s <a href="https://www.cst.cam.ac.uk">Department of Computer Science and Technology</a>. I received my Ph.D. from Cambridge University in 2019 for my <a href="https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf">research on Distributed Consensus</a> and I am probably best known for my work on the Paxos algorithm, and in particular, the invention of <a href="https://arxiv.org/abs/1608.06696">Flexible Paxos</a>. You can often find me on twitter: <a href="https://twitter.com/heidiann360" target="_blank">@heidiann360</a>.</p><h4 style="white-space:pre-wrap;">Research interests</h4><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">distributed systems, cloud computing, distributed databases &amp; storage systems</p></li><li><p class="" style="white-space:pre-wrap;">fault-tolerance, distributed consensus, byzantine agreement, availability &amp; replication</p></li><li><p class="" style="white-space:pre-wrap;">distributed algorithms, consistency models, formal methods &amp; the theory of distributed computing</p></li></ul>
